@@ -16,6 +16,7 @@ This project is created using Flutter and Firebase as a backend. The application
 
 
 **Video Demo**
+
 https://github.com/Za-Badi/MoPail-Demo--Shop-App-Public/assets/58106989/b0d9c6a4-9c3d-42c0-a9e9-2ed4353e7696
 
 
