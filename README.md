@@ -3,7 +3,9 @@ Shop App for Pet accessories
 
 **🛍️ Overview**
 MoPail-Demo is a modern mobile shopping application built for pet lovers! Users can register, browse a wide range of pet accessories, add products to their cart, and make purchases with ease. The app also supports a robust admin panel and seller dashboard for full control over store operations and promotions.
+
 **✨ Features**
+
 **🧑‍💻 User Features:**
  * User registration & login with Firebase Authentication
 
