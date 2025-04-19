@@ -5,17 +5,17 @@ Shop App for Pet accessories
 MoPail-Demo is a modern mobile shopping application built for pet lovers! Users can register, browse a wide range of pet accessories, add products to their cart, and make purchases with ease. The app also supports a robust admin panel and seller dashboard for full control over store operations and promotions.
 **✨ Features**
 **🧑‍💻 User Features:**
-User registration & login with Firebase Authentication
+ * User registration & login with Firebase Authentication
 
-Browse/search for pet products
+ * Browse/search for pet products
 
-Add items to cart and place orders
+ * Add items to cart and place orders
 
-Earn loyalty points on each purchase
+ * Earn loyalty points on each purchase
 
-Redeem loyalty points for exclusive products
+ * Redeem loyalty points for exclusive products
 
-Purchase special items available only through loyalty points
+ * Purchase special items available only through loyalty points
 
 **👑 Admin Features:**
   * Add, delete, and update product listings
@@ -51,18 +51,6 @@ The app uses Firebase Firestore to store all data including:
 
   * Firebase Auth: Authentication for user and admin access
 
-**Description**
-
-This is a shop application where users can register, create accounts, search for products, add to a cart, and purchase products. It also has an admin app where the admin can add, delete, and update menus and products. In addition, the seller can discount offers and add advertisement pictures.
-The application has loyalty points, where users are awarded points at each purchase and they can use these points to buy any products. Also, there are special products that are only can be purchased using loyalty points.
-
-**Database configuration**
-
-The data in this project (products, orders, users) is stored in Firebase Firestore. 
-
-**Built with**
-
-This project is created using Flutter and Firebase as a backend. The application uses Bloc Provider state management and Firebase Auth for authentication.
 
 **Video Demo**
 
